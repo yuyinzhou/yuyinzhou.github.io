@@ -48,9 +48,9 @@ Lingxi Xie, Qihang Yu, **Yuyin Zhou**, Yan Wang, Elliot Fishman, Alan Yuille. **
 Saliency Transformation Network for Tiny Target Segmentation in Abdominal CT
 Scans**, in IEEE transactions on medical imaging (TMI), 2019
 
-David Dreizin, **Yuyin Zhou**, Yixiao Zhang, Nikki Tirada, Alan Yuille. Performance of
+David Dreizin, **Yuyin Zhou**, Yixiao Zhang, Nikki Tirada, Alan Yuille. **Performance of
 a Deep Learning Algorithm for Automated Segmentation and Quantification of
-Traumatic Pelvic Hematomas on CT, in Journal of Digital Imaging (JDI), 2019
+Traumatic Pelvic Hematomas on CT**, in Journal of Digital Imaging (JDI), 2019
 
 **Yuyin Zhou**, Yingwei Li, Zhishuai Zhang, Yan Wang, Alan Yuille, Seyoun Park. **Hyper-
 Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation**,
@@ -58,7 +58,7 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 (MICCAI), 2019 ([PDF](https://arxiv.org/pdf/1909.00906.pdf))
 
 **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan
-Yuille. Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation,
+Yuille. **Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation**,
 in IEEE International Conference on Computer Vision (ICCV), 2019 ([PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Prior-Aware_Neural_Network_for_Partially-Supervised_Multi-Organ_Segmentation_ICCV_2019_paper.pdf))
 
 Yan Wang, **Yuyin Zhou**, Wei Shen, Seyoun Park, Elliot Fishman, Alan Yuille. **Abdominal
