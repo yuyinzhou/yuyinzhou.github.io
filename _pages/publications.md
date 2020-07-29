@@ -79,15 +79,15 @@ Saliency Transformation Network: Incorporating Multi-Stage Visual Cues
 for Small Organ Segmentation**, in IEEE Conference on Computer Vision and Pattern
 Recognition (CVPR), 2018 ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Recurrent_Saliency_Transformation_CVPR_2018_paper.pdf))
 
-Cihang Xie, Jianyu Wang, Zhishuai Zhang,**Yuyin Zhou**, Lingxi Xie, Alan Yuille. Adversarial
-Examples for Semantic Segmentation and Object Detection, in IEEE International
+Cihang Xie, Jianyu Wang, Zhishuai Zhang,**Yuyin Zhou**, Lingxi Xie, Alan Yuille. **Adversarial
+Examples for Semantic Segmentation and Object Detection**, in IEEE International
 Conference on Computer Vision (ICCV), 2017 ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf))
 
-**Yuyin Zhou**, Lingxi Xie, Wei Shen, Yan Wang, Elliot Fishman, Alan Yuille. A Fixed-
-Point Model for Pancreas Segmentation in Abdominal CT Scans, in International
+**Yuyin Zhou**, Lingxi Xie, Wei Shen, Yan Wang, Elliot Fishman, Alan Yuille. **A Fixed-
+Point Model for Pancreas Segmentation in Abdominal CT Scans**, in International
 Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI),
 2017 ([PDF](https://arxiv.org/pdf/1612.08230.pdf))
 
-**Yuyin Zhou**, Lingxi Xie, Elliot Fishman, Alan Yuille. Deep Supervision for Pancreatic
-Cyst Segmentation in Abdominal CT Scans, in International Conference on Medical
+**Yuyin Zhou**, Lingxi Xie, Elliot Fishman, Alan Yuille. **Deep Supervision for Pancreatic
+Cyst Segmentation in Abdominal CT Scans**, in International Conference on Medical
 Image Computing and Computer Assisted Intervention (MICCAI), 2017 ([PDF](https://arxiv.org/pdf/1706.07346.pdf))
