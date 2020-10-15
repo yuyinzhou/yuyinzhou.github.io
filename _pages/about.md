@@ -11,6 +11,8 @@ redirect_from:
 Yuyin Zhou is a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). Before that, she received her B.S. degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology), and M.S degree from [UCLA](https://www.ucla.edu/). Yuyin’s research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. She also worked at Google Cloud AI and Google Brain. 
 
 **Recent News**
+- One paper has been accepted to TPAMI
+>* [Adversarial Metric Attack and Defense for Person Re-identification](https://arxiv.org/pdf/1901.10650.pdf)
 - Two papers have been accepted to MICCAI 2020
 >* [Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble](https://arxiv.org/pdf/2003.08441.pdf)
 >* [Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation](https://arxiv.org/pdf/2005.09120.pdf)
