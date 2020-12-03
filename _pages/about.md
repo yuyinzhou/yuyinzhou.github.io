@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Yuyin Zhou is a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). Before that, she received her B.S. degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology), and M.S degree from [UCLA](https://www.ucla.edu/). Yuyin’s research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. She also worked at Google Cloud AI and Google Brain. 
+Yuyin Zhou is currently a Postdoctoral Fellow at Stanford. She received her Ph.D. degree in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). Before that, she received her B.S. degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology), and M.S degree from [UCLA](https://www.ucla.edu/). Yuyin’s research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. She also interned at Google Cloud AI and Google Brain. 
 
 **Recent News**
+
+- One paper has been accepted to AAAI 2021
+>* [CAKES: Channel-wise Automatic KErnel Shrinking for Efficient 3D Networks](https://arxiv.org/pdf/2003.12798.pdf)
+
 - One paper has been accepted to TPAMI
 >* [Adversarial Metric Attack and Defense for Person Re-identification](https://arxiv.org/pdf/1901.10650.pdf)
 - Two papers have been accepted to MICCAI 2020
@@ -22,5 +26,3 @@ Yuyin Zhou is a Ph.D. student in Computer Science at [Johns Hopkins University](
 >* [Universal Physical Camouflage Attacks on Object Detectors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Universal_Physical_Camouflage_Attacks_on_Object_Detectors_CVPR_2020_paper.pdf)
 >* [Neural Architecture Search for Lightweight Non-Local Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Neural_Architecture_Search_for_Lightweight_Non-Local_Networks_CVPR_2020_paper.pdf)
 
-- One paper has been accepted to AAAI 2020
->* [Learning Transferable Adversarial Examples via Ghost Networks](https://arxiv.org/pdf/1812.03413.pdf)
