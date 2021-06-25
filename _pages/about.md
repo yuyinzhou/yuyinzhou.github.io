@@ -15,7 +15,10 @@ My research interests span in the fields of medical image computing, computer vi
 If you are interested in working with me (remotely), please feel free to drop me an email. 
 
 **Recent News**
-- We are organizing [ICML2021 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2021/). Please submit your paper [here](https://cmt3.research.microsoft.com/IMLH2021).
+- I am serving as a workflow co-chair for [ML4H 2021](https://ml4health.github.io/2021/)
+- We are organizing [ICCV2021 workshop on Computer Vision for Automated Medical Diagnosis](https://sites.google.com/view/CVAMD2021/).
+- One paper has been accepted to MICCAI 2021
+- We are organizing [ICML2021 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2021/).
 - One paper has been accepted to TMI 2021
 - One paper has been accepted to AAAI 2021
 >* [CAKES: Channel-wise Automatic KErnel Shrinking for Efficient 3D Networks](https://arxiv.org/pdf/2003.12798.pdf)
