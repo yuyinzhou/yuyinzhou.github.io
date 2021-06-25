@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow at Stanford. I have received my Ph.D. degree in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). Before that, I received my B.S. degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology), and M.S degree from [UCLA](https://www.ucla.edu/). I also interned at Google Cloud AI and Google Brain. 
 
-My research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. I have been working on developing data-efficient and knowledge-aware deep learning techniques that can generalize to different medical tasks without requiring intensive manual labeling efforts, and incorporate domain-specific knowledge in the learning process. My ultimate research goal is to make medical AI systems more reliable to deliver transparent and trustworthy solutions in the face of the more complex real-world clinical settings. [Here](https://yuyinzhou.github.io/yuyin_zhou_dissertation.pdf) is my Ph.D. thesis.
+My research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. My ultimate research goal is to make medical AI systems more reliable to deliver transparent and trustworthy solutions in the face of the more complex real-world clinical settings. [Here](https://yuyinzhou.github.io/yuyin_zhou_dissertation.pdf) is my Ph.D. thesis.
 
 If you are interested in working with me (remotely), please feel free to drop me an email. 
 
