@@ -15,6 +15,8 @@ My research interests span in the fields of medical image computing, computer vi
 If you are interested in working with me (remotely), please feel free to drop me an email. 
 
 **Recent News**
+- Our [ICCV Computer Vision for Automated Medical Diagnosis Workshop](https://sites.google.com/view/CVAMD2021/) is featured in [ICCV Daily](https://www.rsipvision.com/ICCV2021-Tuesday/16/)
+- I am serving as a Senior Program Committee for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 - I am serving as a workflow co-chair for [ML4H 2021](https://ml4health.github.io/2021/)
 - We are organizing [ICCV2021 workshop on Computer Vision for Automated Medical Diagnosis](https://sites.google.com/view/CVAMD2021/).
 - One paper has been accepted to MICCAI 2021
