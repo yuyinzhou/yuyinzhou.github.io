@@ -12,7 +12,7 @@ I am currently an Assistant Professor of [Computer Science and Engineering](http
 
 My research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. My ultimate research goal is to make medical AI systems more reliable to deliver transparent and trustworthy solutions in the face of the more complex real-world clinical settings. [Here](https://yuyinzhou.github.io/yuyin_zhou_dissertation.pdf) is my Ph.D. thesis.
 
-If you are interested in working with me (remotely), please feel free to drop me an email. 
+<span style="color: red;">I am looking for multiple self-motivated PhD/interns to work on machine learning, computer vision and AI for healthcare. Welcome to drop me an email with your CV and publications (if any). </span>
 
 **Recent News**
 - Our [ICCV Computer Vision for Automated Medical Diagnosis Workshop](https://sites.google.com/view/CVAMD2021/) is featured in [ICCV Daily](https://www.rsipvision.com/ICCV2021-Tuesday/16/)
