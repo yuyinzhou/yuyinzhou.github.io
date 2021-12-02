@@ -14,6 +14,8 @@ My research interests span in the fields of medical image computing, computer vi
 
 <span style="color: red;">I am looking for multiple self-motivated PhD/interns to work on machine learning, computer vision and AI for healthcare. Welcome to drop me an email with your CV and publications (if any). </span>
 
+<span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
+
 **Recent News**
 - Our [ICCV Computer Vision for Automated Medical Diagnosis Workshop](https://sites.google.com/view/CVAMD2021/) is featured in [ICCV Daily](https://www.rsipvision.com/ICCV2021-Tuesday/16/)
 - I am serving as a Senior Program Committee for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
