@@ -12,7 +12,7 @@ I am currently an Assistant Professor of [Computer Science and Engineering](http
 
 My research interests span in the fields of medical image computing, computer vision, and machine learning, especially the intersection of them. My ultimate research goal is to make medical AI systems more reliable to deliver transparent and trustworthy solutions in the face of the more complex real-world clinical settings. [Here](https://yuyinzhou.github.io/yuyin_zhou_dissertation.pdf) is my Ph.D. thesis.
 
-<span style="color: red;">I am looking for multiple self-motivated PhD/interns to work on machine learning, computer vision and AI for healthcare. Welcome to apply from [here](https://grad.soe.ucsc.edu/admissions) and [email](mailto:yzhou284@ucsc.edu) with your CV and publications (if any). </span>
+<span style="color: red;">I am looking for multiple self-motivated PhD/interns to work on machine learning, computer vision and AI for healthcare. Welcome to apply from [here](https://grad.soe.ucsc.edu/admissions) and drop me an [email](mailto:yzhou284@ucsc.edu) with your CV and publications (if any). </span>
 
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
