@@ -19,7 +19,7 @@ My research interests span in the fields of medical image computing, computer vi
 **Recent News**
 - I am serving as an area chair for [MICCAI 2022](http://www.miccai.org/)
 - We are organizing [CVPR 2022 Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv22/)
-- One paper accepted by IEEE TMI([Paper](https://arxiv.org/pdf/2201.00942.pdf))
+- One paper accepted by IEEE TMI ([Paper](https://arxiv.org/pdf/2201.00942.pdf))
 - Check out our new RadFusion benchmark focusing on combining medical imaging data with large-scale patient EHR for advancing
 clinical diagnosis ([Paper](https://arxiv.org/pdf/2111.11665.pdf))
 - Our [ICCV Computer Vision for Automated Medical Diagnosis Workshop](https://sites.google.com/view/CVAMD2021/) is featured in [ICCV Daily](https://www.rsipvision.com/ICCV2021-Tuesday/16/)
@@ -30,5 +30,4 @@ clinical diagnosis ([Paper](https://arxiv.org/pdf/2111.11665.pdf))
 - We are organizing [ICML2021 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2021/).
 - One paper has been accepted to IEEE TMI ([Paper](https://arxiv.org/pdf/2105.14773.pdf))
 - One paper has been accepted to AAAI 2021 ([Paper](https://arxiv.org/pdf/2003.12798.pdf))
-
 - One paper has been accepted to TPAMI ([Paper](https://arxiv.org/pdf/1901.10650.pdf)
