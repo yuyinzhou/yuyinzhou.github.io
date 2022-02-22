@@ -30,4 +30,4 @@ clinical diagnosis ([Paper](https://arxiv.org/pdf/2111.11665.pdf))
 - We are organizing [ICML2021 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2021/).
 - One paper has been accepted to IEEE TMI ([Paper](https://arxiv.org/pdf/2105.14773.pdf))
 - One paper has been accepted to AAAI 2021 ([Paper](https://arxiv.org/pdf/2003.12798.pdf))
-- One paper has been accepted to TPAMI ([Paper](https://arxiv.org/pdf/1901.10650.pdf)
+- One paper has been accepted to TPAMI ([Paper](https://arxiv.org/pdf/1901.10650.pdf))
