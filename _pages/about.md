@@ -18,6 +18,7 @@ My research interests span in the fields of medical image computing, computer vi
 
 **Recent News**
 - I am serving as an area chair for [MICCAI 2022](http://www.miccai.org/)
+- I am serving as an area chair for [CHIL 2022](https://www.chilconference.org/)
 - We are organizing [CVPR 2022 Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv22/)
 - One paper accepted by IEEE TMI ([Paper](https://arxiv.org/pdf/2201.00942.pdf))
 - Check out our new RadFusion benchmark focusing on combining medical imaging data with large-scale patient EHR for advancing
