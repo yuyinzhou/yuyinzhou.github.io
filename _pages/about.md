@@ -17,6 +17,7 @@ My research interests span in the fields of medical image computing, computer vi
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
+- 3 papers are accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)
 - I am serving as an area chair for [MICCAI 2022](http://www.miccai.org/)
 - I am serving as an area chair for [CHIL 2022](https://www.chilconference.org/)
 - We are organizing [CVPR 2022 Medical Computer Vision Workshop](https://sites.google.com/view/cvprmcv22/)
