@@ -17,6 +17,9 @@ My research interests span in the fields of medical image computing, computer vi
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
+- We are organizing the MICCAI 2022 workshop on [Medical Optical Imaging and Virtual Microscopy Image Analysis](https://sites.google.com/view/movi2022/)
+- We are organizing the MICCAI 2022 tutorial on [Learning with Limited Supervision](https://sites.google.com/view/miccai2022tutoriallwls/)
+- We are organizing the CVPR 2022 [MCV workshop](https://sites.google.com/view/cvprmcv22/)
 - 3 papers are accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)
 - I am serving as an area chair for [MICCAI 2022](http://www.miccai.org/)
 - I am serving as an area chair for [CHIL 2022](https://www.chilconference.org/)
