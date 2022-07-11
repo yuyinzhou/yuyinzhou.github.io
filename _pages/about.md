@@ -17,6 +17,10 @@ My research interests span in the fields of medical image computing, computer vi
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
+- One paper has been accepted by [ECCV 2022](https://eccv2022.ecva.net/).
+- Our CVPR 2022 [MCV workshop](https://sites.google.com/view/cvprmcv22/) has been featured in [CVPR Daily](https://www.rsipvision.com/CVPR2022-Tuesday/16/) and [Best of CVPR](https://www.rsipvision.com/ComputerVisionNews-2022July/36/)!
+- We are organizing [ECCV 2022 Medical Computer Vision Workshop](https://mcv-workshop.github.io/). The deadline is now extended to Jul. 17!
+- We are organizing [ICML2022 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2022/).
 - We are organizing the MICCAI 2022 workshop on [Medical Optical Imaging and Virtual Microscopy Image Analysis](https://sites.google.com/view/movi2022/)
 - We are organizing the MICCAI 2022 tutorial on [Learning with Limited Supervision](https://sites.google.com/view/miccai2022tutoriallwls/)
 - We are organizing the CVPR 2022 [MCV workshop](https://sites.google.com/view/cvprmcv22/)
@@ -30,9 +34,4 @@ clinical diagnosis ([Paper](https://arxiv.org/pdf/2111.11665.pdf))
 - Our [ICCV Computer Vision for Automated Medical Diagnosis Workshop](https://sites.google.com/view/CVAMD2021/) is featured in [ICCV Daily](https://www.rsipvision.com/ICCV2021-Tuesday/16/)
 - I am serving as a Senior Program Committee for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 - I am serving as a workflow co-chair for [ML4H 2021](https://ml4health.github.io/2021/)
-- We are organizing [ICCV2021 workshop on Computer Vision for Automated Medical Diagnosis](https://sites.google.com/view/CVAMD2021/).
-- One paper has been accepted to MICCAI 2021
-- We are organizing [ICML2021 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2021/).
-- One paper has been accepted to IEEE TMI ([Paper](https://arxiv.org/pdf/2105.14773.pdf))
-- One paper has been accepted to AAAI 2021 ([Paper](https://arxiv.org/pdf/2003.12798.pdf))
-- One paper has been accepted to TPAMI ([Paper](https://arxiv.org/pdf/1901.10650.pdf))
+- We are organizing [ICCV2021 workshop on Computer Vision for Automated Medical Diagnosis](https://sites.google.com/view/CVAMD2021/)
