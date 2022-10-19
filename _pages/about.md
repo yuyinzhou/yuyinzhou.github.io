@@ -17,7 +17,9 @@ My research interests span in the fields of medical image computing, computer vi
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
-- One paper has been accepted by [ECCV 2022](https://eccv2022.ecva.net/).
+- One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence
+- One paper has been accepted by [Neurips 2022](https://nips.cc/)
+- One paper has been accepted by [ECCV 2022](https://eccv2022.ecva.net/)
 - Our CVPR 2022 [MCV workshop](https://sites.google.com/view/cvprmcv22/) has been featured in [CVPR Daily](https://www.rsipvision.com/CVPR2022-Tuesday/16/) and [Best of CVPR](https://www.rsipvision.com/ComputerVisionNews-2022July/36/)!
 - We are organizing [ECCV 2022 Medical Computer Vision Workshop](https://mcv-workshop.github.io/). The deadline is now extended to Jul. 17!
 - We are organizing [ICML2022 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2022/)
