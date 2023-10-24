@@ -27,5 +27,5 @@ My research interests span in the fields of medical image computing, computer vi
 - I am serving as an area chair for [CHIL 2023](https://www.chilconference.org/)
 - I received the UCSC Hellman Fellowship
 - One paper accepted by IEEE TMI ([Paper](https://arxiv.org/pdf/2205.08576.pdf))
-- One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence
+- One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence ([Paper](https://ieeexplore.ieee.org/abstract/document/9906428))
 - One paper has been accepted by [Neurips 2022](https://nips.cc/)
