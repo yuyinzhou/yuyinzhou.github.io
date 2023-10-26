@@ -25,7 +25,7 @@ in International Journal of Radiation Oncology Biology Physics, 2023. ([PDF](htt
 Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, **Yuyin Zhou**, Cihang Xie. **Masked Autoencoders Enable Efficient Knowledge Distillers**,
 in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 ([PDF](https://arxiv.org/pdf/2208.12256.pdf))
 
-Zeyu Wang, Yutong Bai, **Yuyin Zhou**, Cihang Xie. **Can CNNs Be More Robust Than Transformers?**,
+Zeyu Wang, Yutong Bai, **Yuyin Zhou**, Cihang Xie. **Can CNNs Be More Robust Than Transformers?**
 in International Conference on Learning Representations (ICLR), 2023. ([PDF](https://arxiv.org/pdf/2206.03452.pdf))
 
 Rui Yan, Liangqiong Qu, Qingyue Wei, Shih-Cheng Huang, Liyue Shen, Daniel Rubin, Lei Xing, **Yuyin Zhou**. **Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging**,
