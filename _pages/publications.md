@@ -13,9 +13,62 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
+
+Qingyue Wei, Lequan Yu, Xianhang Li, Wei Shao, Cihang Xie, Lei Xing, **Yuyin Zhou**. **Consistency-guided Meta-Learning for Bootstrapping Semi-Supervised Medical Image Segmentation**, in International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023 ([PDF](https://arxiv.org/pdf/2307.11604.pdf))
+
+Yiqing Wang, Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Shengtian Sang, Alan Yuille, Cihang Xie, **Yuyin Zhou**. **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**, in International Conference on Medical Image Computing and Computer Assisted Intervention
+(MICCAI), 2023 ([PDF](https://arxiv.org/pdf/2307.12591.pdf))
+
+Yizheng Chen, Michael F. Gensheimer, Hilary P. Bagshaw, Santino Butler, Lequan Yu, **Yuyin Zhou**, Liyue Shen, Nataliya Kovalchuk, Murat Surucu, Daniel T. Chang, Lei Xing, Bin Han. **Patient-Specific Auto-segmentation on Daily kVCT Images for Adaptive Radiation Therapy**,
+in International Journal of Radiation Oncology Biology Physics, 2023. ([PDF](https://www.sciencedirect.com/science/article/pii/S0360301623004339))
+
+Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, **Yuyin Zhou**, Cihang Xie. **Masked Autoencoders Enable Efficient Knowledge Distillers**,
+in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 ([PDF](https://arxiv.org/pdf/2208.12256.pdf))
+
+Zeyu Wang, Yutong Bai, **Yuyin Zhou**, Cihang Xie. **Can CNNs Be More Robust Than Transformers?**,
+in International Conference on Learning Representations (ICLR), 2023. ([PDF](https://arxiv.org/pdf/2206.03452.pdf))
+
+Rui Yan, Liangqiong Qu, Qingyue Wei, Shih-Cheng Huang, Liyue Shen, Daniel Rubin, Lei Xing, **Yuyin Zhou**. **Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging**,
+in IEEE transactions on medical imaging (TMI), 2023 ([PDF](https://arxiv.org/pdf/2205.08576.pdf))
+
+Fuying Wang, **Yuyin Zhou**, Shujun Wang, Varut Vardhanabhuti, Lequan Yu. **Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning**, in Conference on Neural Information Processing Systems (NeurIPS), 2022 ([PDF](https://arxiv.org/pdf/2210.06044.pdf))
+
+Xianhang Li, Huiyu Wang, Chen Wei, Jieru Mei, Alan Yuille, **Yuyin Zhou**, Cihang Xie. **In Defense of Image Pre-Training for Spatiotemporal Recognition**,
+in European Conference on Computer Vision (ECCV), 2022 ([PDF](https://arxiv.org/pdf/2205.01721.pdf))
+
+
+Sucheng Ren, Huiyu Wang, Zhengqi Gao, Shengfeng He, Alan Yuille, **Yuyin Zhou**, Cihang Xie. **A Simple Data Mixing Prior for Improving Self-Supervised Learning**,
+in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 ([PDF](https://arxiv.org/pdf/2206.07692.pdf))
+
+
+Yiqing Shen, **Yuyin Zhou**, Lequan Yu. **CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**,
+in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 ([PDF](https://arxiv.org/pdf/2204.03880.pdf))
+
+Liangqiong Qu, **Yuyin Zhou**, Paul Pu Liang, Yingda Xia, Feifei Wang, Ehsan Adeli, Li Fei-Fei, Daniel Rubin. **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning**,
+in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 ([PDF](https://arxiv.org/pdf/2106.06047.pdf))
+
+
+Shengtian Sang, **Yuyin Zhou**, Md Tauhidul Islam, Lei Xing. **Small-Object Sensitive Segmentation Using Across Feature Map Attention**,
+in IEEE TPAMI, 2022 ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906428))
+
+Junfei Xiao, Lequan Yu, Zongwei Zhou, Yutong Bai, Lei Xing, Alan Yuille, **Yuyin Zhou**. **CateNorm: Categorical Normalization for Robust Medical Image Segmentation**, in MICCAI Workshop on Domain Adaptation and Representation Transfer, 2022 ([PDF](https://arxiv.org/pdf/2103.15858.pdf))
+
+Yucheng Tang, Riqiang Gao, Hohin Lee, Qi Yang, Xin Yu, **Yuyin Zhou**, Shunxing Bao, Yuankai Huo, Jeffrey Spraggins, Jack Virostko, Zhoubing Xu, Bennett A Landman. **Pancreas CT Segmentation by Predictive Phenotyping**,
+in International Conference on Medical Image Computing and Computer Assisted Intervention
+(MICCAI), 2021 ([PDF](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_3))
+
+
+Yan Wang, Peng Tang, **Yuyin Zhou**, Wei Shen, Elliot K Fishman, Alan Yuille. **Learning inductive attention guidance for partially supervised pancreatic ductal adenocarcinoma prediction**, in IEEE transactions on medical imaging (TMI), 2021 ([PDF](https://arxiv.org/pdf/2105.14773.pdf))
+
+**Yuyin Zhou**, David Dreizin, Yan Wang, Fengze Liu, Wei Shen, Alan Yuille. **External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation With Limited Data**, in IEEE transactions on medical imaging (TMI), 2021 ([PDF](https://arxiv.org/pdf/2201.00942.pdf)).
+
+
+Qihang Yu, Yingwei Li, Jieru Mei, **Yuyin Zhou**, Alan Yuille. **CAKES: Channel-wise Automatic KErnel Shrinking for Efficient 3D Networks**,
+in AAAI Conference on Artificial Intelligence (AAAI), 2021 ([PDF](https://arxiv.org/pdf/2003.12798.pdf))
+
 Yingda Xia, Qihang Yu, Wei Shen, **Yuyin Zhou**, Elliot Fishman, Alan Yuille. **Detecting
-Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble**, in
-International Conference on Medical Image Computing and Computer Assisted Intervention
+Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble**, in International
+Conference on Medical Image Computing and Computer Assisted Intervention
 (MICCAI), 2020 ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
 
 Shuhao Fu, Yongyi Lu, Yan Wang, **Yuyin Zhou**, Wei Shen, Elliot Fishman, Alan Yuille.
