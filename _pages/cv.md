@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link](https://yuyinzhou.github.io/Yuyin_Zhou_CV.pdf)
+
 
