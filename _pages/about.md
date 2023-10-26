@@ -18,16 +18,17 @@ Our group is focusing on advancing biomedical artificial intelligence, primarily
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
-- 3D TransUNet is out ([code](https://github.com/Beckschen/3D-TransUNet/tree/main) and [paper](https://arxiv.org/abs/2310.07781))!! 3D TransUNet-Enc achieves the 2nd place in [BraTs2023](https://www.synapse.org/#!Synapse:syn51156910/wiki/622345) for brain metastases segmentation
-- I will serve as an area chair for [CVPR 2024](https://cvpr.thecvf.com/)
-- I am serving as an area chair for [ICLR 2024](https://iclr.cc/Conferences/2024)
-- 2 papers are accepted by [MICCAI 2023](http://www.miccai.org/)
-- 1 paper is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/)
-- We are organizing [ICML2023 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2023/)
-- We are organizing the CVPR 2023 [MCV workshop](https://sites.google.com/view/cvprmcv23/)
-- I am serving as an area chair for [MICCAI 2023](http://www.miccai.org/)
-- I am serving as an area chair for [CHIL 2023](https://www.chilconference.org/)
-- I received the UCSC Hellman Fellowship
-- One paper accepted by IEEE TMI ([Paper](https://arxiv.org/pdf/2205.08576.pdf))
-- One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence ([Paper](https://ieeexplore.ieee.org/abstract/document/9906428))
-- One paper has been accepted by [Neurips 2022](https://nips.cc/)
+- [2023/10]3D TransUNet is out ([code](https://github.com/Beckschen/3D-TransUNet/tree/main) and [paper](https://arxiv.org/abs/2310.07781))!! 3D TransUNet-Enc achieves the 2nd place in [BraTs2023](https://www.synapse.org/#!Synapse:syn51156910/wiki/622345) for brain metastases segmentation
+- [2023/08]I will serve as an area chair for [CVPR 2024](https://cvpr.thecvf.com/)
+- [2023/08]I am serving as an area chair for [ICLR 2024](https://iclr.cc/Conferences/2024)
+- [2023/06]2 papers are accepted by [MICCAI 2023](http://www.miccai.org/)
+- [2023/03]We are organizing [ICML2023 workshop on Interpretable ML in Healthcare](https://sites.google.com/view/imlh2023/)
+- [2023/03]I received the Hellman Fellowship
+- [2023/02]1 paper is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/)
+- [2023/01]I am serving as an area chair for [MICCAI 2023](http://www.miccai.org/)
+- [2022/12]We are organizing the CVPR 2023 [MCV workshop](https://sites.google.com/view/cvprmcv23/)
+- [2022/12]I am serving as an area chair for [CHIL 2023](https://www.chilconference.org/)
+- [2022/12]One paper accepted by IEEE TMI ([Paper](https://arxiv.org/pdf/2205.08576.pdf))
+- [2022/09]One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence ([Paper](https://ieeexplore.ieee.org/abstract/document/9906428))
+- [2022/09]One paper has been accepted by [Neurips 2022](https://nips.cc/)
+- [2022/09]I am selected as a finalist for MICCAI 2022 Young Scientist Publication Impact Award
