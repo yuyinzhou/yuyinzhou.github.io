@@ -51,7 +51,7 @@ in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 ([PDF
 Shengtian Sang, **Yuyin Zhou**, Md Tauhidul Islam, Lei Xing. **Small-Object Sensitive Segmentation Using Across Feature Map Attention**,
 in IEEE TPAMI, 2022 ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906428))
 
-Junfei Xiao, Lequan Yu, Zongwei Zhou, Yutong Bai, Lei Xing, Alan Yuille, **Yuyin Zhou**. **CateNorm: Categorical Normalization for Robust Medical Image Segmentation**, in MICCAI Workshop on Domain Adaptation and Representation Transfer, 2022 ([PDF](https://arxiv.org/pdf/2103.15858.pdf))
+Junfei Xiao, Lequan Yu, Zongwei Zhou, Yutong Bai, Lei Xing, Alan Yuille, **Yuyin Zhou**. **CateNorm: Categorical Normalization for Robust Medical Image Segmentation**, in MICCAI Workshop on Domain Adaptation and Representation Transfer, 2022 ([PDF](https://arxiv.org/pdf/2103.15858.pdf)) <span style="color: red;">Best Paper Honorable Mention
 
 Yucheng Tang, Riqiang Gao, Hohin Lee, Qi Yang, Xin Yu, **Yuyin Zhou**, Shunxing Bao, Yuankai Huo, Jeffrey Spraggins, Jack Virostko, Zhoubing Xu, Bennett A Landman. **Pancreas CT Segmentation by Predictive Phenotyping**,
 in International Conference on Medical Image Computing and Computer Assisted Intervention
