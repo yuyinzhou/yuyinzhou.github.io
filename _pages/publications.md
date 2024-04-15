@@ -14,6 +14,30 @@ You can also find my full publication list on my [Google Scholar profile](https:
 {% endfor %}
 
 
+**Yuyin Zhou**, Xianhang Li, Fengze Liu, Qingyue Wei, Xuxi Chen, Lequan Yu, Cihang Xie, Matthew P. Lungren, Lei Xing. **L2B: Learning to Bootstrap Robust Models for Combating Label Noise**, in CVPR 2024 ([PDF](https://arxiv.org/pdf/2202.04291.pdf))
+
+Yipeng Gao, Zeyu Wang, Wei-Shi Zheng, Cihang Xie, **Yuyin Zhou**.
+**Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training**, in CVPR 2024 ([PDF](https://arxiv.org/pdf/2311.01734.pdf))
+
+Mude Hui, Zihao Wei, Hongru Zhu, Fei Xia, **Yuyin Zhou**.
+**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**, in CVPR 2024 ([PDF](https://arxiv.org/pdf/2403.10815.pdf))
+
+Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, Liangqiong Qu, Wei Shao, **Yuyin Zhou**.
+**Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**, in CVPR 2024 ([PDF](https://arxiv.org/pdf/2403.18271.pdf))
+
+Junyuan Zhang, Shuang Zeng, Miao Zhang, Runxi Wang, Feifei Wang, **Yuyin Zhou**, Paul Pu Liang, Liangqiong Qu.
+**FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning**, in CVPR 2024 
+
+Qingyue Wei, Md Tauhidul Islam, **Yuyin Zhou**, Lei Xing.
+**Self-supervised deep learning of gene–gene interactions for improved gene expression recovery**, in Briefings in Bioinformatics 2024 ([PDF](https://academic.oup.com/bib/article/25/2/bbae031/7606640))
+
+Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts
+Shiyi Du, Xiaosong Wang, Yongyi Lu, **Yuyin Zhou**, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou. in ISBI 2024 ([PDF](https://arxiv.org/pdf/2310.02906.pdf))
+
+Hongxu Jiang, Muhammad Imran, Preethika Muralidharan, Anjali Patel, Jake Pensa, Muxuan Liang, Tarik Benidir, Joseph R Grajo, Jason P Joseph, Russell Terry, John Michael DiBianco, Li-Ming Su, **Yuyin Zhou**, Wayne G Brisbane, Wei Shao.
+**MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images**, in
+Computerized Medical Imaging and Graphics, 2024 ([PDF](https://www.sciencedirect.com/science/article/pii/S089561112400003X))
+
 Qingyue Wei, Lequan Yu, Xianhang Li, Wei Shao, Cihang Xie, Lei Xing, **Yuyin Zhou**. **Consistency-guided Meta-Learning for Bootstrapping Semi-Supervised Medical Image Segmentation**, in International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023 ([PDF](https://arxiv.org/pdf/2307.11604.pdf))
 
 Yiqing Wang, Zihan Li, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Shengtian Sang, Alan Yuille, Cihang Xie, **Yuyin Zhou**. **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**, in International Conference on Medical Image Computing and Computer Assisted Intervention
