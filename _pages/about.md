@@ -20,6 +20,7 @@ Our group is focusing on advancing biomedical artificial intelligence, primarily
 **Recent News**
 - [2024/04] We are organizing the MICCAI 2024 tutorial on Foundation Models For Medical ImagING (FOMMIA)
 - [2024/04] We are organizing the MICCAI 2024 workshop on [Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)](https://sites.google.com/view/movi2024)
+- [2024/03] One paper has about using self-supervised learning to improve gene expression has been accepted by [Briefings in Bioinformatics](https://academic.oup.com/bib) 
 - [2024/02] Five papers have been accepted by [CVPR 2024](https://cvpr.thecvf.com/)
 - [2024/02] One paper has been accepted by ISBI 2024 ([Paper](https://arxiv.org/pdf/2310.02906.pdf))
 - [2024/01] We are organizing [the first Workshop on Foundation Models for Medical Vision](https://fmv-cvpr24workshop.github.io/) workshop in conjunction with CVPR 2024. Join us in the "[SEGMENT ANYTHING IN MEDICAL IMAGES ON LAPTOP](https://www.codabench.org/competitions/1847/)" challenge to build lightweight medical foundation models. We welcome your contribution to pushing medical foundation models into real-world clinics! <span style="color: red;">Top-performing teams will be invited to submit their groundbreaking solutions as co-authors in a summarization paper to a top-tier journal.</span>
