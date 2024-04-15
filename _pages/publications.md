@@ -31,8 +31,8 @@ Junyuan Zhang, Shuang Zeng, Miao Zhang, Runxi Wang, Feifei Wang, **Yuyin Zhou**,
 Qingyue Wei, Md Tauhidul Islam, **Yuyin Zhou**, Lei Xing.
 **Self-supervised deep learning of gene–gene interactions for improved gene expression recovery**, in Briefings in Bioinformatics 2024 ([PDF](https://academic.oup.com/bib/article/25/2/bbae031/7606640))
 
-Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts
-Shiyi Du, Xiaosong Wang, Yongyi Lu, **Yuyin Zhou**, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou. in ISBI 2024 ([PDF](https://arxiv.org/pdf/2310.02906.pdf))
+
+Shiyi Du, Xiaosong Wang, Yongyi Lu, **Yuyin Zhou**, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou. **Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**, in ISBI 2024 ([PDF](https://arxiv.org/pdf/2310.02906.pdf))
 
 Hongxu Jiang, Muhammad Imran, Preethika Muralidharan, Anjali Patel, Jake Pensa, Muxuan Liang, Tarik Benidir, Joseph R Grajo, Jason P Joseph, Russell Terry, John Michael DiBianco, Li-Ming Su, **Yuyin Zhou**, Wayne G Brisbane, Wei Shao.
 **MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images**, in
