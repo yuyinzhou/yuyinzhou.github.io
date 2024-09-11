@@ -18,11 +18,15 @@ Our group is focusing on advancing biomedical artificial intelligence, primarily
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
-- [2024/04] We are organizing the MICCAI 2024 tutorial on Foundation Models For Medical ImagING (FOMMIA)
+- [2024/07] BioMedGPT is accepted by [Nature Medicine](https://www.nature.com/nm/)
+- [2024/07] TransUNet is accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841524002056)
+- [2024/07] One paper is accepted by [ECCV 2024](https://eccv2024.ecva.net/)
+- [2024/05] One paper is early accepted by [MICCAI 2024](http://www.miccai.org/)
+- [2024/04] We are organizing the MICCAI 2024 tutorial on [Foundation Models For Medical ImagING (FOMMIA)](https://sites.google.com/view/miccai-2024-tutorial?pli=1)
 - [2024/04] We are organizing the MICCAI 2024 workshop on [Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)](https://sites.google.com/view/movi2024)
 - [2024/03] One paper about using self-supervised learning to improve gene expression has been accepted by [Briefings in Bioinformatics](https://academic.oup.com/bib) 
 - [2024/02] Five papers have been accepted by [CVPR 2024](https://cvpr.thecvf.com/)
-- [2024/02] One paper has been accepted by ISBI 2024 ([Paper](https://arxiv.org/pdf/2310.02906.pdf))
+- [2024/02] Two papers have been accepted by ISBI 2024 
 - [2024/01] We are organizing [the first Workshop on Foundation Models for Medical Vision](https://fmv-cvpr24workshop.github.io/) workshop in conjunction with CVPR 2024. Join us in the "[SEGMENT ANYTHING IN MEDICAL IMAGES ON LAPTOP](https://www.codabench.org/competitions/1847/)" challenge to build lightweight medical foundation models. We welcome your contribution to pushing medical foundation models into real-world clinics! <span style="color: red;">Top-performing teams will be invited to submit their groundbreaking solutions as co-authors in a summarization paper to a top-tier journal.</span>
 - [2024/01] I am serving as an area chair for [MICCAI 2024](http://www.miccai.org/)
 - [2024/01] I am serving as an area chair for [CHIL 2024](https://www.chilconference.org/)
