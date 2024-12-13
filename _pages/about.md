@@ -18,6 +18,11 @@ Our group is focusing on advancing biomedical artificial intelligence, primarily
 <span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
 
 **Recent News**
+- [2024/12] One paper is accepted by AAAI 2025
+- [2024/11] I am serving as an area chair for ISBI 2025
+- [2024/09] Two papers are accepted by NeurIPS 2024
+- [2024/09] I am serving as an area chair for CVPR 2025
+- [2024/08] I am serving as an area chair for ICLR 2025
 - [2024/07] [BioMedGPT](https://www.nature.com/articles/s41591-024-03185-2) is accepted by [Nature Medicine](https://www.nature.com/nm/)
 - [2024/07] TransUNet is accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841524002056)
 - [2024/07] One paper is accepted by [ECCV 2024](https://eccv2024.ecva.net/)
