@@ -18,8 +18,8 @@ I am co-leading [the Vision · Learning · Assured Autonomy (VLAA) Lab](https://
 
 **Recent News**
 - [2025/06-02/2026] New publications: 1 NeurIPS, 1 TPAMI, 3 ICLR, 1 TMLR and 6 CVPR!
-- [MicroSegNet](https://github.com/mirthAI/MicroSegNet) received Computerized Medical Imaging and Graphics Best Paper award 2024!
-- [2025/08] I received KDD 2025 HealthDay best paper award!
+- [MicroSegNet](https://github.com/mirthAI/MicroSegNet) received Computerized Medical Imaging and Graphics Best Paper Award 2024!
+- [2025/08] I received KDD 2025 HealthDay Best Paper Award!
 - [2025/06] I received the [Google Research Scholar Award](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - New publications from 01/2025 to 06/2025: 2 ICLR, 3 CVPR, 2 ICML and 1 MICCAI early accept.
 - [2024/12] One paper is accepted by AAAI 2025
