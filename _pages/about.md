@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering) at [University of California, Santa Cruz](https://www.ucsc.edu/). Before that, I was a Postdoctoral Fellow at [Stanford University](https://www.stanford.edu/), working closely with [Prof. Lei Xing](https://med.stanford.edu/xinglab.html) and [Prof. Matthew Lungren](https://profiles.stanford.edu/matthew-lungren). I have received my Ph.D. degree in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
-
-Our group is particualy focusing on advancing biomedical artificial intelligence. Our ultimate goal is to match medical experts in decision-making. Specifically, we focus on: 1) creating innovative and cutting-edge medical multimodal model; 2) building real-world learning systems that ensure fair, trustworthy and real-time feedacks to clinicians, caregivers, and even patients; 3) one-shot/few-shot adaptation of open foundation models to diverse medical tasks; 4) synthetic data generation aligned with clinical knowledge. 
+I am an Assistant Professor of [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering) at [University of California, Santa Cruz](https://www.ucsc.edu/). Before that, I was a Postdoctoral Fellow at [Stanford University](https://www.stanford.edu/), working closely with [Prof. Lei Xing](https://med.stanford.edu/xinglab.html) and [Prof. Matthew Lungren](https://profiles.stanford.edu/matthew-lungren). I have received my Ph.D. degree in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), under the supervision of [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). 
 
 
-<span style="color: red;">I am looking for multiple self-motivated PhD/interns to work on machine learning, computer vision and AI for healthcare. Welcome to apply from [here](https://grad.soe.ucsc.edu/admissions) and drop me an [email](mailto:yzhou284@ucsc.edu) with your CV and publications (if any). </span>
+<span style="color: red;">I am co-leading [the Vision · Learning · Assured Autonomy (VLAA) Lab](https://ucsc-vlaa.github.io/) with [Prof. Cihang Xie](https://cihangxie.github.io/). We are always actively looking for self-motivated PhD/interns. Welcome to apply from [here](https://ucsc-vlaa.github.io/opening.html) and drop me an [email](mailto:yzhou284@ucsc.edu) with your CV and publications (if any). The official PhD application portal is [here](https://grad.soe.ucsc.edu/admissions) </span>
 
-<span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span>
+<span style="color: red;">Due to the large amount of emails I receive, I may not be able to respond to each one individually. </span> 
 
 **Recent News**
+- [2025/06-02/2026] New publications: 1 NeurIPS, 1 TPAMI, 3 ICLR, 1 TMLR and 6 CVPR!
+- [MicroSegNet](https://github.com/mirthAI/MicroSegNet) received Computerized Medical Imaging and Graphics Best Paper award 2024!
+- [2025/08] I received KDD 2025 HealthDay best paper award!
 - [2025/06] I received the [Google Research Scholar Award](https://research.google/programs-and-events/research-scholar-program/recipients/)
 - New publications from 01/2025 to 06/2025: 2 ICLR, 3 CVPR, 2 ICML and 1 MICCAI early accept.
 - [2024/12] One paper is accepted by AAAI 2025
